@@ -1,27 +1,9 @@
-SMSGuard GitHub Pages Site
+SMSGuard Website - GitHub Pages
 
-1) Create a public GitHub repo, for example: smsguard-site
-2) Upload index.html, styles.css, privacy-policy.html and terms.html to the repository root.
-3) GitHub > Settings > Pages
-4) Source: Deploy from a branch
-5) Branch: main
-6) Folder: / (root)
-7) Save
+Upload all files/folders in this package to the root of edoan247/smsguard-site.
 
-Before publishing:
-- Replace YOUR_SUPPORT_EMAIL@example.com in index.html.
-- You already have an existing privacy policy. Either replace privacy-policy.html with it, or change the links in index.html to your existing privacy-policy URL.
-- Review terms.html before publishing.
+Google Play: https://play.google.com/store/apps/details?id=com.edoan.smsguard
 
-Google Auth Platform example:
-Application home page:
-https://YOUR-GITHUB-USERNAME.github.io/smsguard-site/
+Files: index.html, styles.css, privacy-policy.html, terms.html, assets/
 
-Privacy policy:
-https://YOUR-GITHUB-USERNAME.github.io/smsguard-site/privacy-policy.html
-
-Terms:
-https://YOUR-GITHUB-USERNAME.github.io/smsguard-site/terms.html
-
-Authorized domain:
-YOUR-GITHUB-USERNAME.github.io
+After committing, wait for GitHub Pages deployment and refresh https://smsguardapp.com/. Keep your DNS and custom-domain settings unchanged.
